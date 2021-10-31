@@ -1,0 +1,7 @@
+Renders/*
+!Renders/.gitkeep
+
+models/*
+!models/.gitkeep
+
+*.blend1
