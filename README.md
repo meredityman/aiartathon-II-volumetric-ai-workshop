@@ -42,6 +42,9 @@
 
 ### Datesets
 
-* Texture Synthesis Tests
+* Texture Synthesis Tests `TextureSynthesis/Blender/Textures` -> 
+* Tree Models `GeneratingDatasets/Blender/models` -> 
+* Tree Renders `GeneratingDatasets/Blender/Renders` -> 
+* Depth Video `DepthMaps` -> 
 
 ### Notes
