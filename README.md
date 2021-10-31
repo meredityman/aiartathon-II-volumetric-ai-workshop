@@ -13,31 +13,31 @@
 ## Summary
 
 | Time   | Topic                             | Links                |
-|--------|-----------------------------------|----------------------|
-| +00:00 | Introduction                      |                      |
-| +00:30 | --                                |                      |
-| +01:00 | Texture Synthesis                 |                      |
-| +01:30 | _--individual work--_             |                      |
-| +02:00 | Introduction to Blender           |                      |
-| +02:30 | Rendering PBR Textures            |                      |
-| +03:00 | _--individual work--_             |                      |
-| +03:30 | Generating datasets with Blender  |                      |
-| +04:00 | --                                |                      |
-| +04:30 | --                                |                      |
-| +05:00 | _--individual work--_             |                      |
-| +05:30 | _--individual work--_             |                      |
-| +06:00 | Training StyleGan with CG data    |                      |
-| +06:30 | _--individual work--_             |                      |
-| +07:00 | Intro to Depth Maps               |                      |
-| +07:30 | Intro to OpenFrameworks           |                      |
-| +08:00 | Generative Meshes                 |                      |
-| +08:30 | --                                |                      |
-| +09:00 | Shaders                           |                      |
-| +09:30 | --                                |                      |
-| +10:00 | _--individual work--_             |                      |
-| +10:30 | _--individual work--_             |                      |
-| +10:00 | Generating video with StyleGan    |                      |
-| +10:30 | 3D GANs, tricks and opportunities |                      |
+|--------|-----------------------------------|------------------------------------|
+| +00:00 | Introduction                      |                                    |
+| +00:30 | --                                |                                    |
+| +01:00 | Texture Synthesis                 |[Gihub](TextureSynthesis/Collab/Notebook_TextureSynthesis.ipynb)           |
+| +01:30 | _--individual work--_             |                                    |
+| +02:00 | Introduction to Blender           |                                    |
+| +02:30 | Rendering PBR Textures            | [Gihub](TextureSynthesis/Blender)  |
+| +03:00 | _--individual work--_             |                                    |
+| +03:30 | Generating datasets with Blender  | [Gihub](GeneratingDatasets/Blender)|
+| +04:00 | --                                |                                    |
+| +04:30 | --                                |                                    |
+| +05:00 | _--individual work--_             |                                    |
+| +05:30 | _--individual work--_             |                                    |
+| +06:00 | Training StyleGan with CG data    | [Gihub](TextureSynthesis/Collab/Notebook_TextureSynthesis.pynb) |
+| +06:30 | _--individual work--_             |                                    |
+| +07:00 | Intro to Depth Maps               |                                    |
+| +07:30 | Intro to OpenFrameworks           | [Gihub](DepthMaps)                 |
+| +08:00 | Generative Meshes                 |                                    |
+| +08:30 | --                                |                                    |
+| +09:00 | Shaders                           |                                    |
+| +09:30 | --                                |                                    |
+| +10:00 | _--individual work--_             |                                    |
+| +10:30 | _--individual work--_             |                                    |
+| +10:00 | Generating video with StyleGan    |                                    |
+| +10:30 | 3D GANs, tricks and opportunities | [Gihub](SDFGan)                    |
 
 
 ### Datesets
