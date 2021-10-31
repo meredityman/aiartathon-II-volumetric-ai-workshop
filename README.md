@@ -38,5 +38,10 @@
 | +10:30 | _--individual work--_             |                      |
 | +10:00 | Generating video with StyleGan    |                      |
 | +10:30 | 3D GANs, tricks and opportunities |                      |
-             
+
+
+### Datesets
+
+* Texture Synthesis Tests
+
 ### Notes
