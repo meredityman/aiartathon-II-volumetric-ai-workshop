@@ -1,0 +1,7 @@
+Renders/*
+!Renders/.gitkeep
+
+Textures/*
+!Textures/.gitkeep
+
+*.blend1
