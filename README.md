@@ -26,7 +26,7 @@
 | +04:30 | --                                |                                    |
 | +05:00 | _--individual work--_             |                                    |
 | +05:30 | _--individual work--_             |                                    |
-| +06:00 | Training StyleGan with CG data    | [Gihub](TextureSynthesis/Collab/Notebook_TextureSynthesis.pynb) |
+| +06:00 | Training StyleGan with CG data    | [Gihub](GeneratingDatasets/Collab/Notebook_StyleGan2.ipynb) |
 | +06:30 | _--individual work--_             |                                    |
 | +07:00 | Intro to Depth Maps               |                                    |
 | +07:30 | Intro to OpenFrameworks           | [Gihub](DepthMaps)                 |
