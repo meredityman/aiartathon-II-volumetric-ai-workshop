@@ -2,8 +2,11 @@
 
 <!-- This workshop explores the challenges of using machine learning models for interactive installations, hardware projects and live experiments. We will examine the trade-offs between frameworks, languages and hardware and the specific challenges of connecting ML systems with generative graphics and user input. Finally we will see one example using sockets to communicate between a Tensorflow runtime and OpenFrameworks. -->
 
+
 ## Requirements
 
+
+* [Blender](https://www.blender.org/)
 * [Python 3.6–3.9](https://docs.python-guide.org/starting/installation/)
 * [Tensorflow](https://www.tensorflow.org/install)
 * [openFrameworks](https://openframeworks.cc/)
@@ -40,11 +43,16 @@
 | +10:30 | 3D GANs, tricks and opportunities | [Gihub](SDFGan)                    |
 
 
-### Datesets
+### Datasets
 
-* Texture Synthesis Tests `TextureSynthesis/Blender/Textures` -> 
-* Tree Models `GeneratingDatasets/Blender/models` -> 
-* Tree Renders `GeneratingDatasets/Blender/Renders` -> 
-* Depth Video `DepthMaps` -> 
+All datasets are in a Google Drive folder [here](https://drive.google.com/drive/folders/1iGvXvMsJXNA5ZFMjXdjiQMtksQ5ruX0o?usp=sharing).
+
+* Texture Synthesis Samples: `TextureSynthesis/Blender/Textures` -> `Textures`
+* Texture Synthesis Output:`SynthizedTextures` -> `SynthesizedTextures`
+* Tree Models: `GeneratingDatasets/Blender/models` -> `TreeModels`
+* Tree Renders: `GeneratingDatasets/Blender/Renders` -> `TreeRenders`
 
 ### Notes
+
+
+* [Open AI Microscope](https://microscope.openai.com/models/)
