@@ -5,7 +5,7 @@
 
 ## Requirements
 
-
+* [ffmpeg](https://www.ffmpeg.org/)
 * [Blender](https://www.blender.org/)
 * [Python 3.6–3.9](https://docs.python-guide.org/starting/installation/)
 * [Tensorflow](https://www.tensorflow.org/install)
@@ -36,11 +36,7 @@
 | +08:00 | Generative Meshes                 |                                    |
 | +08:30 | --                                |                                    |
 | +09:00 | Shaders                           |                                    |
-| +09:30 | --                                |                                    |
-| +10:00 | _--individual work--_             |                                    |
-| +10:30 | _--individual work--_             |                                    |
-| +10:00 | Generating video with StyleGan    |                                    |
-| +10:30 | 3D GANs, tricks and opportunities | [Gihub](SDFGan)                    |
+| +09:30 | --                               +03:30 	ortunities | [Gihub](SDFGan)                    |
 
 
 ### Datasets
