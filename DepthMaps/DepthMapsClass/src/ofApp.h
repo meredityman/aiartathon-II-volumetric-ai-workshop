@@ -23,5 +23,9 @@ class ofApp : public ofBaseApp{
 
 		ofDirectory colorDir, depthDir;
 		ofImage colorImage, depthFrame;
+
+
+		ofEasyCam cam;
+		ofMesh mesh;
 		
 };
